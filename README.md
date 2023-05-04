@@ -2,7 +2,7 @@
 
 <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" align="right" />
 
-The Tech Radar helps NSIDC understand the everchanging spectrum of technology that is relevant to our work. It is intended to facilitate internal conversations as we build, deploy, and maintain technology and tools. It reflects the idiosyncratic opinions of its contributors. It is not meant prescribe or limit.
+The Tech Radar helps NSIDC understand the ever changing spectrum of technology that is relevant to our work. It is intended to facilitate internal conversations as we build, deploy, and maintain technology and tools. It reflects the idiosyncratic opinions of its contributors. It is not meant prescribe or limit.
 
 ## Usage
 
@@ -10,7 +10,7 @@ We are using the [Discussion](https://github.com/nsidc/tech-radar/discussions) f
 
 ### As a contributor
 
-We are limiting contributions to memebers of NSIDC. We are doing this via a hack. Using the Moderation settings, we are limiting interaction to repository collaborators and organization members for 6 months at a time.
+We are limiting contributions to members of NSIDC. We are doing this via a hack. Using the Moderation settings, we are limiting interaction to repository collaborators and organization members for 6 months at a time.
 
 - Add new content
   - Check to see if item is on the Radar, if not create a [new Discussion](https://github.com/nsidc/tech-radar/discussions/new/choose) and add at least one label.
@@ -26,7 +26,7 @@ We are limiting contributions to memebers of NSIDC. We are doing this via a hack
 
 ### Creating and Organizing Content
 
-Initally we are dividing content into four categories: 
+Initially we are dividing content into four categories: 
 
 - Languages and Frameworks
   - Programming Languages and Frameworks
@@ -64,4 +64,4 @@ See [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Acknowledgements
 
-- Our Tech Radar is inspried by and derived from the [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar).
+- Our Tech Radar is inspired by and derived from the [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar).
