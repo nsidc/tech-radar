@@ -1,9 +1,6 @@
 # NSIDC Tech Radar
 
-<p style="float:right;padding-left:20px;">
-  <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" />
-</p>
-
+<img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" align="right" />
 The Tech Radar helps NSIDC understand the spectrum of technology that is relevant to our work. It is intended to facilitate internal conversations about technology and tools as we build and maintain code bases. It reflects the idiosyncratic opinions of its contributors not a consensus of NSIDC. It is meant to be used for guidance rather than as a prescription or standard.
 
 ## Usage
