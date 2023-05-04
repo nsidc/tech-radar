@@ -10,6 +10,8 @@ We are using the [Discussion](https://github.com/nsidc/tech-radar/discussions) f
 
 ### As a contributor
 
+We are limiting contributions to memebers of NSIDC. We are doing this via a hack. Using the Moderation settings, we are limiting interaction to repository collaborators and organization members for 6 months at a time.
+
 - Add new content
   - Check to see if item is on the Radar, if not create a [new Discussion](https://github.com/nsidc/tech-radar/discussions/new/choose) and add at least one label.
 - Add your perspective to an existing item
