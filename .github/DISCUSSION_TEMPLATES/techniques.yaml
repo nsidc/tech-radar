@@ -1,0 +1,11 @@
+title: "[Item]"
+body:
+  - type: markdown
+    attributes:
+      value: "Please also select at least one label from: `Interested`,`Using - Recommended`,`Using - Not recommended`,`Deprecated`, `Not Using`"
+  - type: "textarea"
+    attributes:
+      label: "Description"
+      description: "Describe the technology"
+    validations:
+      required: true
