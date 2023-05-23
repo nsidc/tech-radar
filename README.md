@@ -2,7 +2,7 @@
 
 <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" align="right" />
 
-The Tech Radar helps NSIDC understand the ever changing spectrum of technology that is relevant to our work. It is intended to facilitate internal conversations as we build, deploy, and maintain technology and tools. It reflects the idiosyncratic opinions of its contributors. It is not meant prescribe or limit.
+The Tech Radar helps NSIDC understand the ever changing spectrum of technology that is relevant to our work. It is intended to facilitate internal conversations as we build, deploy, and maintain technology and tools. It reflects the idiosyncratic opinions of its contributors. It is not meant to prescribe or limit.
 
 ## Usage
 
